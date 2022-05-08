@@ -84,7 +84,7 @@ gegl_op_class_init (GeglOpClass *klass)
                                  "reference-hash", "x62261a5feb6c696f76cb80e68f4930e2",
                                  "reference-hashB", "xcf04bb714a173f1f71da8af283b8a894",
                                  "description",
-                                 _("Enhances fine details using a reversal of Mean Curvature's algorithm'."),
+                                 _("Enhances fine details using a reversal of Mean Curvature's algorithm. Blend modes Linear Light and Grain Merge make it sharpen."),
                                  NULL);
 }
 
